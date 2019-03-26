@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1553563265 source:c:\users\allex\desktop\ads\3_ciclo\estrutura de dados\fila\main.cpp
+	<iostream>
+	"fila.h"
+	<stdlib.h>
+	<conio.h>
+
+1553563476 c:\users\allex\desktop\ads\3_ciclo\estrutura de dados\fila\fila.h
+
